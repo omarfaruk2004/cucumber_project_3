@@ -1,0 +1,6 @@
+com\qa\techfios\pages\HomePage.class
+com\qa\techfios\customactions\CustomWebDriverMethods.class
+servicehooks\ServiceHooks.class
+com\qa\techfios\utilities\TestUtilities.class
+com\qa\techfios\base\TestBase.class
+com\qa\techfios\utilities\Browsers.class
